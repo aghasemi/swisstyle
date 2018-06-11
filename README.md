@@ -1,2 +1,5 @@
-# swisstyle
+# SWISSTYLE
 SWISSTYLE:  A Supervised Dataset for Stylometric Analysis of Swiss text
+
+# Under Construction
+This repository is still  under construction. Contact us via alireza.ghasemi@elca if you are interested in the data.
